@@ -38,6 +38,7 @@ print(a%b) #modulus
 #List dan Akses Elemen
 buah = ["apel", "jeruk", "pisang", "mangga", "anggur"]
 print("\n--List Buah--")
+print(buah) #print list
 print(buah[0]) #ak elemen pertama
 print(buah[-1]) #tampilkan elemen terakhir
 buah.append("melon")
