@@ -1,0 +1,18 @@
+RINGKASAN STATISTIK NUMPY
+Rata-rata: 81.10
+Median: 82.50
+Std Dev: 10.30
+Min: 67, Max: 98
+
+RINGKASAN DATAFRAME
+Jumlah baris: 6
+Jumlah LULUS: 5
+Jumlah TIDAK LULUS: 1
+
+RINGKASAN GRADEBOOK
+Total data: 6
+Rata-rata Nilai: 79.33
+Jumlah lulus: 5
+Jumlah tidak lulus: 1
+Pass Rate: 83.33%
+
